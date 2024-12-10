@@ -1,0 +1,352 @@
+.afmtx {
+  display: block;
+  font-size: 0.88889em;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+  margin-left: 3em;
+  margin-top: 0.5em;
+  text-align: justify;
+}
+.au {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+}
+.calibre {
+  display: block;
+  font-size: 1.125em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: justify;
+  margin: 0 5pt;
+}
+.calibre1 {
+  display: block;
+}
+.calibre2 {
+  display: block;
+  font-size: 0.66667em;
+  text-align: center;
+  margin: 1.5em;
+}
+.calibre3 {
+  font-style: italic;
+  line-height: 1.2;
+}
+.calibre4 {
+  font-style: italic;
+}
+.calibre5 {
+  display: block;
+  margin: 1em 0;
+}
+.calibre6 {
+  font-weight: bold;
+  line-height: 1.2;
+}
+.calibre7 {
+  height: auto;
+  width: 100%;
+}
+.calibre8 {
+  color: #222;
+  display: block;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+  line-height: inherit;
+  text-align: center;
+  text-indent: 0;
+  margin: 0 0 1em;
+}
+.calibre9 {
+  display: block;
+  text-align: center;
+  text-indent: 0;
+  margin: 1em 0 0;
+}
+.cct {
+  display: block;
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: justify;
+}
+.center {
+  display: block;
+  line-height: inherit;
+  outline: 0;
+  text-align: center;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
+.centeraligned {
+  display: block;
+  margin-bottom: 1.5em;
+  margin-top: 1.5em;
+  text-align: center;
+}
+.cfmh {
+  display: block;
+  font-size: 0.88889em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+}
+.cpt {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  margin-bottom: 2em;
+  text-align: justify;
+}
+.ct {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  margin-bottom: 2em;
+  margin-top: 0.5em;
+  text-align: center;
+}
+.ctag {
+  display: block;
+  font-size: 0.88889em;
+  line-height: 1.2;
+  margin-bottom: 5%;
+  margin-top: 10%;
+  text-align: center;
+}
+.ctag1 {
+  display: block;
+  font-size: 0.88889em;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-align: center;
+}
+.fmh {
+  display: block;
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 1em;
+  margin-top: 2em;
+  text-align: center;
+}
+.fmtx {
+  display: block;
+  font-size: 0.88889em;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-top: 0.5em;
+  text-align: justify;
+  text-indent: 0;
+}
+.fmtx1 {
+  display: block;
+  font-size: 0.88889em;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: justify;
+  text-indent: 1em;
+}
+.fmtx2 {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-top: 0.5em;
+  text-align: justify;
+  text-indent: 0;
+}
+.fmtx3 {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: justify;
+  text-indent: 1em;
+}
+.h2em {
+  height: 2em;
+  width: auto;
+}
+.image_ {
+  display: block;
+  line-height: inherit;
+  outline: 0;
+  text-align: center;
+  text-indent: 0;
+  margin: 1em 30%;
+  padding: 0;
+}
+.pcalibre {
+  -webkit-text-fill-color: rgb(255, 102, 0);
+  color: rgb(255, 102, 0);
+  text-decoration: underline;
+}
+.pepiv {
+  display: block;
+  font-size: 0.66667em;
+  margin-left: 8em;
+  margin-right: 2em;
+  text-align: justify;
+}
+.peps {
+  display: block;
+  font-size: 0.66667em;
+  margin-bottom: 2em;
+  margin-right: 2em;
+  text-align: right;
+}
+.tx {
+  display: block;
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-indent: 0;
+  margin: 0;
+}
+.tx1 {
+  display: block;
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-indent: 1em;
+  margin: 0;
+}
+.txr {
+  display: block;
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: right;
+  text-indent: 1em;
+  margin: 1em 0 0;
+}
+.x-small {
+  display: block;
+  font-size: 0.88889em;
+  text-align: center;
+  text-indent: 0;
+  margin: 1em 0 0;
+  padding: 1.18em 0 0;
+  border-top: rgb(99, 99, 99) solid 1px;
+}
+.x01-fm-copyright-text {
+  display: block;
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 0;
+}
+.x01-fm-copyright-text-space {
+  display: block;
+  font-size: 0.77778em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 1.12em 0 0;
+}
+.x01-fm-tp-author {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 10% 0;
+}
+.x01-fm-tp-subtitle {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 2.57em 0 0;
+}
+.x01-fm-tp-subtitle1 {
+  display: block;
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 10% 0 0;
+}
+.x01-fm-tp-subtitle2 {
+  display: block;
+  font-size: 0.88889em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 0;
+}
+.x01-fm-tp-title {
+  display: block;
+  font-size: 1.22222em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 10% 0;
+}
+.x03-chapter-author {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 1.71em 0 0;
+}
+.x03-chapter-number {
+  display: block;
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 3.43em 0 0;
+}
+.x03-chapter-title {
+  display: block;
+  font-size: 1.11111em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 0.89em 0 0;
+}
+.x03-co-body-text {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: 0;
+  margin: 10% 0 0;
+}
+.x04-body-text {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: 2em;
+  margin: 0;
+}
+.pcalibre1:link {
+  -webkit-text-fill-color: rgb(255, 102, 0);
+  color: rgb(255, 102, 0);
+  text-decoration: underline;
+}
+.pcalibre2:visited {
+  -webkit-text-fill-color: rgb(255, 102, 0);
+  color: rgb(255, 102, 0);
+  text-decoration: underline;
+}
+.pcalibre3:hover {
+  -webkit-text-fill-color: rgb(255, 102, 0);
+  color: rgb(255, 102, 0);
+  text-decoration: underline;
+}
+.pcalibre4:active {
+  -webkit-text-fill-color: rgb(255, 102, 0);
+  color: rgb(255, 102, 0);
+  text-decoration: underline;
+}

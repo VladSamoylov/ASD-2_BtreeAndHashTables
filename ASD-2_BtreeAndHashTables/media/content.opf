@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>en</dc:language>
+    <dc:title>The Godfather</dc:title>
+    <dc:creator opf:file-as="Puzo, Mario" opf:role="aut">Mario Puzo</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;b&gt;Mario Puzo's classic saga of an American crime family that became a global phenomenon&lt;b&gt;&amp;#8212;n&lt;b&gt;ominated as one of America's best-loved novels by PBS's &lt;i&gt;The Great American Read&lt;/i&gt;.&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;br&gt;With its brilliant and brutal portrayal of the Corleone family, &lt;i&gt;The Godfather&lt;/i&gt; burned its way into our national consciousness. This unforgettable saga of crime and corruption, passion and loyalty continues to stand the test of time, as the definitive novel of the Mafia underworld.&lt;br&gt;A #1 &lt;i&gt;New York Times &lt;/i&gt;bestseller in 1969, Mario Puzo's epic was turned into the incomparable film of the same name, directed by Francis Ford Coppola, which won the Academy Award for Best Picture. It is the original classic that has been often imitated, but never matched. A tale of family and society, law and order, obedience and rebellion, it reveals the dark passions of human nature played out against a backdrop of the American dream.&lt;br&gt;&lt;b&gt;With an Introduction by Robert J. Thompson and...</dc:description>
+    <dc:publisher>Penguin Publishing Group</dc:publisher>
+    <dc:identifier opf:scheme="MOBI-ASIN">2b8673d2-c084-4e74-8701-56fb0fd092f1</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b018eec4-ff07-487e-9ccb-4a108e3d0278</dc:identifier>
+    <dc:identifier opf:scheme="calibre">b018eec4-ff07-487e-9ccb-4a108e3d0278</dc:identifier>
+    <dc:date>2005-10-04T00:00:00+00:00</dc:date>
+    <meta name="calibre:timestamp" content="2022-08-23T21:29:14+00:00"/>
+    <meta name="calibre:title_sort" content="Godfather, The"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="text/part0000.html" media-type="application/xhtml+xml"/>
+    <item id="id9" href="text/part0001.html" media-type="application/xhtml+xml"/>
+    <item id="id10" href="text/part0002.html" media-type="application/xhtml+xml"/>
+    <item id="id11" href="text/part0003.html" media-type="application/xhtml+xml"/>
+    <item id="id12" href="text/part0004.html" media-type="application/xhtml+xml"/>
+    <item id="id13" href="text/part0005.html" media-type="application/xhtml+xml"/>
+    <item id="id14" href="text/part0006.html" media-type="application/xhtml+xml"/>
+    <item id="id15" href="text/part0007.html" media-type="application/xhtml+xml"/>
+    <item id="id16" href="text/part0008.html" media-type="application/xhtml+xml"/>
+    <item id="id17" href="text/part0009.html" media-type="application/xhtml+xml"/>
+    <item id="id18" href="text/part0010.html" media-type="application/xhtml+xml"/>
+    <item id="id19" href="text/part0011.html" media-type="application/xhtml+xml"/>
+    <item id="id20" href="text/part0012.html" media-type="application/xhtml+xml"/>
+    <item id="id21" href="text/part0013.html" media-type="application/xhtml+xml"/>
+    <item id="id22" href="text/part0014.html" media-type="application/xhtml+xml"/>
+    <item id="id23" href="text/part0015.html" media-type="application/xhtml+xml"/>
+    <item id="id24" href="text/part0016.html" media-type="application/xhtml+xml"/>
+    <item id="id25" href="text/part0017.html" media-type="application/xhtml+xml"/>
+    <item id="id26" href="text/part0018.html" media-type="application/xhtml+xml"/>
+    <item id="id27" href="text/part0019.html" media-type="application/xhtml+xml"/>
+    <item id="id28" href="text/part0020.html" media-type="application/xhtml+xml"/>
+    <item id="id29" href="text/part0021.html" media-type="application/xhtml+xml"/>
+    <item id="id30" href="text/part0022.html" media-type="application/xhtml+xml"/>
+    <item id="id31" href="text/part0023.html" media-type="application/xhtml+xml"/>
+    <item id="id32" href="text/part0024.html" media-type="application/xhtml+xml"/>
+    <item id="id33" href="text/part0025.html" media-type="application/xhtml+xml"/>
+    <item id="id34" href="text/part0026.html" media-type="application/xhtml+xml"/>
+    <item id="id35" href="text/part0027.html" media-type="application/xhtml+xml"/>
+    <item id="id36" href="text/part0028.html" media-type="application/xhtml+xml"/>
+    <item id="id37" href="text/part0029.html" media-type="application/xhtml+xml"/>
+    <item id="id38" href="text/part0030.html" media-type="application/xhtml+xml"/>
+    <item id="id39" href="text/part0031.html" media-type="application/xhtml+xml"/>
+    <item id="id40" href="text/part0032.html" media-type="application/xhtml+xml"/>
+    <item id="id41" href="text/part0033.html" media-type="application/xhtml+xml"/>
+    <item id="id42" href="text/part0034.html" media-type="application/xhtml+xml"/>
+    <item id="id43" href="text/part0035.html" media-type="application/xhtml+xml"/>
+    <item id="id44" href="text/part0036.html" media-type="application/xhtml+xml"/>
+    <item id="id45" href="text/part0037.html" media-type="application/xhtml+xml"/>
+    <item id="id46" href="text/part0038.html" media-type="application/xhtml+xml"/>
+    <item id="id47" href="text/part0039.html" media-type="application/xhtml+xml"/>
+    <item id="id48" href="text/part0040.html" media-type="application/xhtml+xml"/>
+    <item id="id49" href="text/part0041.html" media-type="application/xhtml+xml"/>
+    <item id="id50" href="text/part0042.html" media-type="application/xhtml+xml"/>
+    <item id="id51" href="text/part0043.html" media-type="application/xhtml+xml"/>
+    <item id="id52" href="text/part0044.html" media-type="application/xhtml+xml"/>
+    <item id="id53" href="text/part0045.html" media-type="application/xhtml+xml"/>
+    <item id="id54" href="text/part0046.html" media-type="application/xhtml+xml"/>
+    <item id="id55" href="text/part0047.html" media-type="application/xhtml+xml"/>
+    <item id="id56" href="text/part0048.html" media-type="application/xhtml+xml"/>
+    <item id="id572" href="text/part0049_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id571" href="text/part0049_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id3" href="images/00004.jpeg" media-type="image/jpeg"/>
+    <item id="id4" href="images/00005.jpeg" media-type="image/jpeg"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id43"/>
+    <itemref idref="id44"/>
+    <itemref idref="id45"/>
+    <itemref idref="id46"/>
+    <itemref idref="id47"/>
+    <itemref idref="id48"/>
+    <itemref idref="id49"/>
+    <itemref idref="id50"/>
+    <itemref idref="id51"/>
+    <itemref idref="id52"/>
+    <itemref idref="id53"/>
+    <itemref idref="id54"/>
+    <itemref idref="id55"/>
+    <itemref idref="id56"/>
+    <itemref idref="id572"/>
+    <itemref idref="id571"/>
+  </spine>
+  <guide>
+    <reference type="other.start" href="text/part0006.html#5N3C1-6a70cae9a2c14df5a176a8bf0ac9c147" title="Start"/>
+    <reference type="text" href="text/part0006.html#5N3C1-6a70cae9a2c14df5a176a8bf0ac9c147" title="Text"/>
+    <reference type="toc" href="text/part0005.html#4OIQ1-6a70cae9a2c14df5a176a8bf0ac9c147" title="Table of Contents"/>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>
