@@ -105,12 +105,12 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>E:\с++_library\minizip\third_party;E:\с++_library\minizip\build;E:\с++_library\minizip;C:\Users\vlads\source\repos\ASD-2_BtreeAndHashTables\ASD-2_BtreeAndHashTables;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>./minizip/third_party;./minizip/build;./minizip;C:\Users\vlads\source\repos\ASD-2_BtreeAndHashTables\ASD-2_BtreeAndHashTables;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalDependencies>E:\с++_library\minizip\build\Debug\minizip.lib;E:\с++_library\minizip\build\Debug\bzip2.lib;E:\с++_library\minizip\build\_deps\zlib-build\Debug\zlib-ngd.lib;E:\с++_library\minizip\build\_deps\liblzma-build\Debug\lzma.lib;E:\с++_library\minizip\build\_deps\zstd-build\lib\Debug\zstd_static.lib;C:\Program Files (x86)\Windows Kits\10\Lib\10.0.22621.0\um\x64\bcrypt.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>./minizip/build/Debug/minizip.lib;./minizip/build/Debug/bzip2.lib;./minizip/build/_deps/zlib-build/Debug/zlib-ngd.lib;./minizip/build/_deps/liblzma-build/Debug/lzma.lib;./minizip/build/_deps/zstd-build/lib/Debug/zstd_static.lib;C:\Program Files (x86)\Windows Kits\10\Lib\10.0.22621.0\um\x64\bcrypt.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
